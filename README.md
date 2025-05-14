@@ -11,6 +11,7 @@ This repository contains the simulation code and data processing scripts associa
 This repository provides:
 - Core simulation code
 - Data files and scripts to generate the Figures from the paper
+- some larger files are not included, but can be requested from the authors
 
 ## Notes
 
